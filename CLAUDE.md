@@ -69,3 +69,5 @@ Each `data/<state>/local/<place_name>.yml` is a YAML list of `Official` records 
 1. Read `schemas.py` before adding or changing any field — validation is centralised there
 2. Check an existing YAML file in `data/` to understand the expected structure before generating new records
 3. Read existing scripts in `scripts/github_actions/` before adding new CI steps — follow the established pattern
+
+4. blah blah
