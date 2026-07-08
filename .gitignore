@@ -2,7 +2,6 @@
 .DS_Store
 .venv/
 !.venv/.gitkeep
-__pycache__/
 scripts/scrapers/cache/
 .env
 data_source/**/.maps/
